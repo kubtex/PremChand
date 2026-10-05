@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Headphones Arc -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:pathData="M33,52 C33,36 41,26 54,26 C67,26 75,36 75,52" />
+    <!-- Left Earcup -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M30,48 C28,48 26,50 26,53 L26,63 C26,66 28,68 30,68 C32,68 34,66 34,63 L34,53 C34,50 32,48 30,48 Z" />
+    <!-- Right Earcup -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M78,48 C76,48 74,50 74,53 L74,63 C74,66 76,68 78,68 C80,68 82,66 82,63 L82,53 C82,50 80,48 78,48 Z" />
+    
+    <!-- Open Book Left Page -->
+    <path
+        android:fillColor="#FFF8E7"
+        android:pathData="M52,50 C44,46 36,46 32,48 L32,73 C36,71 44,71 52,75 Z" />
+    <!-- Open Book Right Page -->
+    <path
+        android:fillColor="#FFF1D0"
+        android:pathData="M56,50 C64,46 72,46 76,48 L76,73 C72,71 64,71 56,75 Z" />
+    <!-- Book Center Spine -->
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M52.5,50 L55.5,50 L55.5,75.5 L52.5,75.5 Z" />
+    
+    <!-- Sound Waves / Resonance ripples above book -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FEF3C7"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M48,39 C51,37 57,37 60,39" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FEF3C7"
+        android:strokeWidth="2"
+        android:strokeLineCap="round"
+        android:pathData="M44,34 C50,31 58,31 64,34" />
+
+    <!-- Text line accents on pages -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D97706"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M36,54 L48,54 M36,59 L48,59 M36,64 L45,64" />
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#D97706"
+        android:strokeWidth="1.2"
+        android:strokeLineCap="round"
+        android:pathData="M60,54 L72,54 M60,59 L72,59 M63,64 L72,64" />
+</vector>

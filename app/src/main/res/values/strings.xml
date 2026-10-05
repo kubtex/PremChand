@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">प्रेमचंद कहानियाँ</string>
+    <string name="tagline">पढ़ें भी, सुनें भी</string>
+    <string name="listen_story">कहानी सुनें</string>
+    <string name="read_story">कहानी पढ़ें</string>
+    <string name="recorded_audio">ऑडियो कथा</string>
+    <string name="device_tts">ऑडियो वाचन</string>
+    <string name="tts_unavailable">आपके डिवाइस पर हिंदी ऑडियो उपलब्ध नहीं है।</string>
+    <string name="continue_listening">सुनना जारी रखें</string>
+    <string name="continue_reading">पढ़ना जारी रखें</string>
+    <string name="audio_stories">ऑडियो कहानियाँ</string>
+    <string name="all_stories">सभी कहानियाँ</string>
+    <string name="filter_read_only">केवल पढ़ें</string>
+    <string name="filter_audio_available">ऑडियो उपलब्ध</string>
+    <string name="filter_both">पढ़ें + सुनें दोनों</string>
+</resources>

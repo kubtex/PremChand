@@ -1,0 +1,6 @@
+{
+  "name": "प्रेमचंद कहानियाँ",
+  "description": "मुंशी प्रेमचंद की कालजयी कहानियाँ - ऑफ़लाइन पढ़ें और ऑडियो तथा हिंदी टीटीएस के साथ सुनें।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

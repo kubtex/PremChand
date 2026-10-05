@@ -1,0 +1,1512 @@
+[
+  {
+    "id": "sawa_ser_gehun",
+    "titleHindi": "सवा सेर गेहूँ",
+    "titleEnglish": "Sawa Ser Gehun",
+    "description": "महाजनी सभ्यता द्वारा सीधे-सादे किसान शंकर के जीवन भर के शोषण की त्रासद दास्तान।",
+    "category": "शोषण के विरुद्ध",
+    "estimatedReadingMinutes": 8,
+    "isFeatured": true,
+    "paragraphsCount": 5
+  },
+  {
+    "id": "do_bailon_ki_katha",
+    "titleHindi": "दो बैलों की कथा",
+    "titleEnglish": "Do Bailon Ki Katha",
+    "description": "हीरा और मोती नामक दो बैलों की अटूट मित्रता, स्वाभिमान और स्वतंत्रता-प्रेम की अद्भुत गाथा।",
+    "category": "पशु-प्रेम एवं स्वाभिमान",
+    "estimatedReadingMinutes": 11,
+    "isFeatured": true,
+    "paragraphsCount": 10
+  },
+  {
+    "id": "kafan",
+    "titleHindi": "कफ़न",
+    "titleEnglish": "Kafan",
+    "description": "भारतीय यथार्थवाद का शिखर—घीसू और माधव की चरम दरिद्रता और व्यवस्था की क्रूर विडंबना।",
+    "category": "यथार्थवादी सामाजिक",
+    "estimatedReadingMinutes": 9,
+    "isFeatured": true,
+    "paragraphsCount": 10
+  },
+  {
+    "id": "eidgah",
+    "titleHindi": "ईदगाह",
+    "titleEnglish": "Eidgah",
+    "description": "रमजान के पूरे तीस रोजों के बाद ईद आयी है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 43,
+    "isFeatured": true,
+    "paragraphsCount": 89
+  },
+  {
+    "id": "gulli_danda",
+    "titleHindi": "गुल्ली-डंडा",
+    "titleEnglish": "Gulli Danda",
+    "description": "हमारे अँग्रेजी दोस्त मानें या न मानें मैं तो यही कहूँगा कि गुल्ली-डंडा सब खेलों का राजा है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 24,
+    "isFeatured": true,
+    "paragraphsCount": 75
+  },
+  {
+    "id": "thakur_ka_kua",
+    "titleHindi": "ठाकुर का कुआँ",
+    "titleEnglish": "Thakur Ka Kua",
+    "description": "जोखू ने लोटा मुँह से लगाया तो पानी में सख्त बदबू आयी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 9,
+    "isFeatured": true,
+    "paragraphsCount": 27
+  },
+  {
+    "id": "namak_ka_daroga",
+    "titleHindi": "नमक का दारोगा",
+    "titleEnglish": "Namak Ka Daroga",
+    "description": "जब नमक का नया विभाग बना और ईश्वरप्रदत्त वस्तु के व्यवहार करने का निषेध हो गया तो लोग चोरी-छिपे इसका व्यापार करने लगे।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 26,
+    "isFeatured": true,
+    "paragraphsCount": 60
+  },
+  {
+    "id": "panchparmeshwar",
+    "titleHindi": "पंचपरमेश्वर",
+    "titleEnglish": "Panchparmeshwar",
+    "description": "जुम्मन शेख और अलगू चौधरी में गाढ़ी मित्रता थी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 35,
+    "isFeatured": true,
+    "paragraphsCount": 66
+  },
+  {
+    "id": "pariksha",
+    "titleHindi": "परीक्षा",
+    "titleEnglish": "Pariksha",
+    "description": "नादिरशाह की सेना ने दिल्ली में कत्लेआम कर रखा है।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 10,
+    "isFeatured": true,
+    "paragraphsCount": 10
+  },
+  {
+    "id": "poos_ki_raat",
+    "titleHindi": "पूस की रात",
+    "titleEnglish": "Poos Ki Raat",
+    "description": "हल्कू ने आकर स्त्री से कहा- सहना आया है, लाओ, जो रुपये रखे हैं, उसे दे दूँ, किसी तरह गला तो छूटे।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 17,
+    "isFeatured": true,
+    "paragraphsCount": 63
+  },
+  {
+    "id": "bade_ghar_ki_beti",
+    "titleHindi": "बङे घर की बेटी",
+    "titleEnglish": "Bade Ghar Ki Beti",
+    "description": "बेनीमाधव सिंह गौरीपुर गाँव के जमींदार और नम्बरदार थे।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 26,
+    "isFeatured": true,
+    "paragraphsCount": 60
+  },
+  {
+    "id": "bade_bhaisahab",
+    "titleHindi": "बङे भाई साहब",
+    "titleEnglish": "Bade Bhaisahab",
+    "description": "मेरे भाई साहब मुझसे पाँच साल बड़े थे, लेकिन केवल तीन दरजे आगे।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 30,
+    "isFeatured": true,
+    "paragraphsCount": 20
+  },
+  {
+    "id": "balidan",
+    "titleHindi": "बलिदान",
+    "titleEnglish": "Balidan",
+    "description": "मनुष्य की आर्थिक अवस्था का सबसे ज्यादा असर उसके नाम पर पड़ता है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 27,
+    "isFeatured": true,
+    "paragraphsCount": 48
+  },
+  {
+    "id": "budhi_kaki",
+    "titleHindi": "बूढ़ी काकी",
+    "titleEnglish": "Budhi Kaki",
+    "description": "जिह्वा-स्वाद के सिवा और कोई चेष्टा शेष न थी और न अपने कष्टों की ओर आकर्षित करने का, रोने के अतिरिक्त कोई दूसरा सहारा ही।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 29,
+    "isFeatured": true,
+    "paragraphsCount": 35
+  },
+  {
+    "id": "mantra_2",
+    "titleHindi": "मंत्र",
+    "titleEnglish": "Mantra",
+    "description": "पंडित लीलाधर चौबे की जबान में जादू था। जिस वक्त वह मंच पर खड़े हो कर अपनी वाणी की सुधावृष्टि करने लगते थे; श्रोताओं की आत्माएँ तृप्त हो जाती थीं, लोगों पर अनुराग का नशा छा जाता था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 48,
+    "isFeatured": true,
+    "paragraphsCount": 52
+  },
+  {
+    "id": "shatranj_ke_khiladi",
+    "titleHindi": "शतरंज के खिलाड़ी",
+    "titleEnglish": "Shatranj Ke Khiladi",
+    "description": "वाजिदअली शाह का समय था। लखनऊ विलासिता के रंग में डूबा हुआ था।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 31,
+    "isFeatured": true,
+    "paragraphsCount": 95
+  },
+  {
+    "id": "agni_samadhi",
+    "titleHindi": "अग्नि समाधि",
+    "titleEnglish": "Agni Samadhi",
+    "description": "साधु-संतों के सत्संग से बुरे भी अच्छे हो जाते हैं, किन्तु पयाग का दुर्भाग्य था, कि उस पर सत्संग का उल्टा ही असर हुआ।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 34,
+    "isFeatured": false,
+    "paragraphsCount": 2
+  },
+  {
+    "id": "adhikar_chinta",
+    "titleHindi": "अधिकार-चिन्ता",
+    "titleEnglish": "Adhikar Chinta",
+    "description": "टामी यों देखने में तो बहुत तगड़ा था। भूँकता तो सुननेवाले के कानों के परदे फट जाते।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 14,
+    "isFeatured": false,
+    "paragraphsCount": 17
+  },
+  {
+    "id": "anubhav",
+    "titleHindi": "अनुभव",
+    "titleEnglish": "Anubhav",
+    "description": "प्रियतम को एक वर्ष की सजा हो गयी। और अपराध केवल इतना था, कि तीन दिन पहले जेठ की तपती दोपहरी में उन्होंने राष्ट्र के कई सेवकों का शर्बत-पान से सत्कार किया था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 13,
+    "isFeatured": false,
+    "paragraphsCount": 38
+  },
+  {
+    "id": "algyojha",
+    "titleHindi": "अलग्योझा",
+    "titleEnglish": "Algyojha",
+    "description": "भोला महतो ने पहली स्त्री के मर जाने बाद दूसरी सगाई की तो उसके लड़के रग्घू के लिये बुरे दिन आ गये।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 59,
+    "isFeatured": false,
+    "paragraphsCount": 186
+  },
+  {
+    "id": "ansuon_ki_holi",
+    "titleHindi": "आँसुओं की होली",
+    "titleEnglish": "Ansuon Ki Holi",
+    "description": "नामों को बिगाड़ने की प्रथा न-जाने कब चली और कहाँ शुरू हुई।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 1
+  },
+  {
+    "id": "akhiri_heela",
+    "titleHindi": "आखिरी हीला",
+    "titleEnglish": "Akhiri Heela",
+    "description": "यद्यपि मेरी स्मरण-शक्ति पृथ्वी के इतिहास की सारी स्मरणीय तारीखें भूल गयीं, वह तारीखें जिन्हें रातों को जागकर और मस्तिष्क को खपाकर याद किया था; मगर विवाह की तिथि समतल भूमि में एक स्तंभ की भाँति अटल है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 21
+  },
+  {
+    "id": "atmsangeet",
+    "titleHindi": "आत्मसंगीत",
+    "titleEnglish": "Atmsangeet",
+    "description": "आधी रात थी। नदी का किनारा था।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 10,
+    "isFeatured": false,
+    "paragraphsCount": 26
+  },
+  {
+    "id": "atmaram",
+    "titleHindi": "आत्माराम",
+    "titleEnglish": "Atmaram",
+    "description": "वेदों-ग्राम में महादेव सोनार एक सुविख्यात आदमी था।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 21,
+    "isFeatured": false,
+    "paragraphsCount": 41
+  },
+  {
+    "id": "adarsh_virodh",
+    "titleHindi": "आदर्श विरोध",
+    "titleEnglish": "Adarsh Virodh",
+    "description": "महाशय दयाकृष्ण मेहता के पाँव जमीन पर न पड़ते थे।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 26,
+    "isFeatured": false,
+    "paragraphsCount": 57
+  },
+  {
+    "id": "aadhar",
+    "titleHindi": "आधार",
+    "titleEnglish": "Aadhar",
+    "description": "गठीला जवान न था। कोई बीस बरस की उमर थी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 17,
+    "isFeatured": false,
+    "paragraphsCount": 37
+  },
+  {
+    "id": "aap_beeti",
+    "titleHindi": "आप-बीती",
+    "titleEnglish": "Aap Beeti",
+    "description": "प्रायः अधिकांश साहित्य-सेवियों के जीवन में एक ऐसा समय आता है जब पाठकगण उनके पास श्रद्धा-पूर्ण पत्र भेजने लगते हैं।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 26,
+    "isFeatured": false,
+    "paragraphsCount": 43
+  },
+  {
+    "id": "aabhushan",
+    "titleHindi": "आभूषण",
+    "titleEnglish": "Aabhushan",
+    "description": "आभूषणों की निंदा करना हमारा उद्देश्य नहीं है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 59,
+    "isFeatured": false,
+    "paragraphsCount": 145
+  },
+  {
+    "id": "amawasya_ki_raat",
+    "titleHindi": "आमावस्या की रात",
+    "titleEnglish": "Amawasya Ki Raat",
+    "description": "दीवाली की संध्या थी। श्रीनगर के घूरों और खँडहरों के भी भाग्य चमक उठे थे।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 30,
+    "isFeatured": false,
+    "paragraphsCount": 32
+  },
+  {
+    "id": "isteefa",
+    "titleHindi": "इस्तीफ़ा",
+    "titleEnglish": "Isteefa",
+    "description": "दफ्तर का बाबू एक बेजबान जीव है। मजदूरों को आँखें दिखाओ, तो वह त्योरियॉँ बदल कर खड़ा हो जायकाह।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 28,
+    "isFeatured": false,
+    "paragraphsCount": 92
+  },
+  {
+    "id": "ishvareey_nyay",
+    "titleHindi": "ईश्वरीय न्याय",
+    "titleEnglish": "Ishvareey Nyay",
+    "description": "कानपुर जिले में पंडित भृगुदत्त नामक एक बड़े जमींदार थे।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 62,
+    "isFeatured": false,
+    "paragraphsCount": 96
+  },
+  {
+    "id": "uddhar",
+    "titleHindi": "उद्धार",
+    "titleEnglish": "Uddhar",
+    "description": "हिंदू समाज की वैवाहिक प्रथा इतनी दूषित, इतनी चिंताजनक, इतनी भयंकर हो गयी है कि कुछ समझ में नहीं आता, उसका सुधार क्योंकर हो।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 47
+  },
+  {
+    "id": "ek_aanch_ki_kasar",
+    "titleHindi": "एक आँच की कसर",
+    "titleEnglish": "Ek Aanch Ki Kasar",
+    "description": "सारे नगर में महाशय यशोदानन्द का बखान हो रहा था।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 14,
+    "isFeatured": false,
+    "paragraphsCount": 48
+  },
+  {
+    "id": "kazaki",
+    "titleHindi": "कज़ाकी",
+    "titleEnglish": "Kazaki",
+    "description": "मेरी बाल-स्मृतियों में 'कजाकी' एक न मिटने वाला व्यक्ति है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 37,
+    "isFeatured": false,
+    "paragraphsCount": 79
+  },
+  {
+    "id": "kaptan_sahab",
+    "titleHindi": "कप्तानसाहब",
+    "titleEnglish": "Kaptan Sahab",
+    "description": "जगत सिंह को स्कूल जान कुनैन खाने या मछली का तेल पीने से कम अप्रिय न था।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 23,
+    "isFeatured": false,
+    "paragraphsCount": 39
+  },
+  {
+    "id": "kamna_taru",
+    "titleHindi": "कामना-तरु",
+    "titleEnglish": "Kamna Taru",
+    "description": "राजा इन्द्रनाथ का देहांत हो जाने के बाद कुँवर राजनाथ को शत्रुओं ने चारों ओर से ऐसा दबाया कि उन्हें अपने प्राण ले कर एक पुराने सेवक की शरण जाना पड़ा, जो एक छोटे-से गाँव का जागीरदार था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 32,
+    "isFeatured": false,
+    "paragraphsCount": 58
+  },
+  {
+    "id": "kaushal",
+    "titleHindi": "कौशल",
+    "titleEnglish": "Kaushal",
+    "description": "पंडित बालकराम शास्त्री की धर्मपत्नी माया को बहुत दिनों से एक हार की लालसा थी और वह सैकड़ों ही बार पंडितजी से उसके लिए आग्रह कर चुकी थी; किंतु पंडितजी हीला-हवाला करते रहते थे।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 10,
+    "isFeatured": false,
+    "paragraphsCount": 51
+  },
+  {
+    "id": "kshama",
+    "titleHindi": "क्षमा",
+    "titleEnglish": "Kshama",
+    "description": "मुसलमानों को स्पेन-देश पर राज्य करते कई शताब्दियाँ बीत चुकी थीं।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 24,
+    "isFeatured": false,
+    "paragraphsCount": 50
+  },
+  {
+    "id": "khoon_safed",
+    "titleHindi": "खून सफेद",
+    "titleEnglish": "Khoon Safed",
+    "description": "चैत का महीना था, लेकिन वे खलियान, जहाँ अनाज की ढेरियाँ लगी रहती थीं, पशुओं के शरणास्थल बने हुए थे; जहाँ घरों से फाग और बसन्त का अलाप सुनाई पड़ता, वहाँ आज भाग्य का रोना था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 31,
+    "isFeatured": false,
+    "paragraphsCount": 63
+  },
+  {
+    "id": "gareeb_ki_haay",
+    "titleHindi": "गरीब की हाय",
+    "titleEnglish": "Gareeb Ki Haay",
+    "description": "मुंशी रामसेवक भौंहे चढ़ाए हुए घर से निकले और बोले- ‘इस जीने से तो मरना भला है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 37,
+    "isFeatured": false,
+    "paragraphsCount": 47
+  },
+  {
+    "id": "gila",
+    "titleHindi": "गिला",
+    "titleEnglish": "Gila",
+    "description": "जीवन का बड़ा भाग इसी घर में गुजर गया, पर कभी आराम न नसीब हुआ।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 42,
+    "isFeatured": false,
+    "paragraphsCount": 23
+  },
+  {
+    "id": "gupt_dhan",
+    "titleHindi": "गुप्त धन",
+    "titleEnglish": "Gupt Dhan",
+    "description": "बाबू हरिदास का ईंटों का पजावा शहर से मिला हुआ था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 21,
+    "isFeatured": false,
+    "paragraphsCount": 36
+  },
+  {
+    "id": "guru_mantra",
+    "titleHindi": "गुरु-मंत्र",
+    "titleEnglish": "Guru Mantra",
+    "description": "घर के कलह और निमंत्रणों के अभाव से पंडित चिंतामणिजी के चित्त में वैराग्य उत्पन्न हुआ और उन्होंने संन्यास ले लिया तो उनके परम मित्र पंडित मोटेराम शास्त्रीजी ने उपदेश दिया- मित्र, हमारा अच्छे-अच्छे स...",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 7,
+    "isFeatured": false,
+    "paragraphsCount": 23
+  },
+  {
+    "id": "griha_daah",
+    "titleHindi": "गृह दाह",
+    "titleEnglish": "Griha Daah",
+    "description": "सत्यप्रकाश के जन्मोत्सव में लाला देवप्रकाश ने बहुत रुपये खर्च किये थे।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 55,
+    "isFeatured": false,
+    "paragraphsCount": 127
+  },
+  {
+    "id": "ghar_jamai",
+    "titleHindi": "घर-जमाई",
+    "titleEnglish": "Ghar Jamai",
+    "description": "हरिधन जेठ की दुपहरी में ऊख में पानी देकर आया और बाहर बैठा रहा।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 33,
+    "isFeatured": false,
+    "paragraphsCount": 79
+  },
+  {
+    "id": "ghaas_wali",
+    "titleHindi": "घासवाली",
+    "titleEnglish": "Ghaas Wali",
+    "description": "मुलिया हरी-हरी घास का गट्ठा लेकर आयी, तो उसका गेहुआँ रंग कुछ तमतमाया हुआ था और बड़ी-बड़ी मद-भरी आँखो में शंका समाई हुई थी।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 35,
+    "isFeatured": false,
+    "paragraphsCount": 92
+  },
+  {
+    "id": "chakma",
+    "titleHindi": "चकमा",
+    "titleEnglish": "Chakma",
+    "description": "सेठ चंदूमल जब अपनी दूकान और गोदाम में भरे हुए माल को देखते तो मुँह से ठंडी साँस निकल जाती।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 17,
+    "isFeatured": false,
+    "paragraphsCount": 72
+  },
+  {
+    "id": "chori",
+    "titleHindi": "चोरी",
+    "titleEnglish": "Chori",
+    "description": "हाय बचपन ! तेरी याद नहीं भूलती ! वह कच्चा, टूटा घर, वह पुवाल का बिछौना; वह नंगे बदन, नंगे पाँव खेतों में घूमना; आम के पेड़ों पर चढ़ना , सारी बातें आँखों के सामने फिर रही हैं।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 33
+  },
+  {
+    "id": "jugnu_ki_chamak",
+    "titleHindi": "जुगनू की चमक",
+    "titleEnglish": "Jugnu Ki Chamak",
+    "description": "पंजाब के सिंह राजा रणजीतसिंह संसार से चल चुके थे और राज्य के वे प्रतिष्ठित पुरुष जिनके द्वारा उनका उत्तम प्रबंध चल रहा था परस्पर के द्वेष और अनबन के कारण मर मिटे थे।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 31,
+    "isFeatured": false,
+    "paragraphsCount": 76
+  },
+  {
+    "id": "juloos",
+    "titleHindi": "जुलूस",
+    "titleEnglish": "Juloos",
+    "description": "पूर्ण स्वराज्य का जुलूस निकल रहा था। कुछ युवक, कुछ बूढ़े, कुछ बालक झंडियाँ और झंडे लिये वंदेमातरम् गाते हुए माल के सामने से निकले।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 33,
+    "isFeatured": false,
+    "paragraphsCount": 70
+  },
+  {
+    "id": "jail",
+    "titleHindi": "जेल",
+    "titleEnglish": "Jail",
+    "description": "मृदुला मैजिस्ट्रेट के इजलास से ज़नाने जेल में वापस आयी, तो उसका मुख प्रसन्न था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 35,
+    "isFeatured": false,
+    "paragraphsCount": 30
+  },
+  {
+    "id": "jyoti",
+    "titleHindi": "ज्योति",
+    "titleEnglish": "Jyoti",
+    "description": "विधवा हो जाने के बाद बूटी का स्वभाव बहुत कटु हो गया था।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 28,
+    "isFeatured": false,
+    "paragraphsCount": 132
+  },
+  {
+    "id": "jwalamukhi",
+    "titleHindi": "ज्वालामुखी",
+    "titleEnglish": "Jwalamukhi",
+    "description": "डिग्री लेने के बाद मैं नित्य लाइब्रेरी जाया करता।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 42,
+    "isFeatured": false,
+    "paragraphsCount": 46
+  },
+  {
+    "id": "jhanki",
+    "titleHindi": "झांकी",
+    "titleEnglish": "Jhanki",
+    "description": "कई दिनों से घर में कलह मचा हुआ था। माँ अलग मुँह फुलाये बैठी थी, स्त्री अलग।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 20,
+    "isFeatured": false,
+    "paragraphsCount": 41
+  },
+  {
+    "id": "decree_ke_rupaye",
+    "titleHindi": "डिक्री के रुपये",
+    "titleEnglish": "Decree Ke Rupaye",
+    "description": "नईम और कैलास में इतनी शारीरिक, मानसिक, नैतिक और सामाजिक अभिन्नता थी, जितनी दो प्राणियों में हो सकती है।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 44,
+    "isFeatured": false,
+    "paragraphsCount": 91
+  },
+  {
+    "id": "taavaan",
+    "titleHindi": "तावान",
+    "titleEnglish": "Taavaan",
+    "description": "छकौड़ीलाल ने दुकान खोली और कपड़े के थानों को निकाल-निकाल रखने लगा कि एक महिला, दो स्वयंसेवकों के साथ उसकी दुकान छेकने आ पहुँची।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 19,
+    "isFeatured": false,
+    "paragraphsCount": 56
+  },
+  {
+    "id": "tentar",
+    "titleHindi": "तेंतर",
+    "titleEnglish": "Tentar",
+    "description": "आखिर वही हुआ जिसकी आशंका थी; जिसकी चिंता में घर के सभी लोग विशेषतः प्रसूता पड़ी हुई थी।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 23,
+    "isFeatured": false,
+    "paragraphsCount": 62
+  },
+  {
+    "id": "tyagi_ka_prem",
+    "titleHindi": "त्यागी का प्रेम",
+    "titleEnglish": "Tyagi Ka Prem",
+    "description": "लाला गोपीनाथ को युवावस्था में ही दर्शन से प्रेम हो गया था।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 50,
+    "isFeatured": false,
+    "paragraphsCount": 73
+  },
+  {
+    "id": "dand",
+    "titleHindi": "दंड",
+    "titleEnglish": "Dand",
+    "description": "संध्या का समय था। कचहरी उठ गयी थी।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 38,
+    "isFeatured": false,
+    "paragraphsCount": 109
+  },
+  {
+    "id": "damul_ka_kaidi",
+    "titleHindi": "दामुल का कैदी",
+    "titleEnglish": "Damul Ka Kaidi",
+    "description": "दस बजे रात का समय, एक विशाल भवन में एक सजा हुआ कमरा, बिजली की अँगीठी, बिजली का प्रकाश।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 71,
+    "isFeatured": false,
+    "paragraphsCount": 154
+  },
+  {
+    "id": "dil_ki_rani",
+    "titleHindi": "दिल की रानी",
+    "titleEnglish": "Dil Ki Rani",
+    "description": "जिन वीर तुर्कों के प्रखर प्रताप से ईसाई-दुनिया काँप रही थी, उन्हीं का रक्त आज कुस्तुन्तुनिया की गलियों में बह रहा है।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 57,
+    "isFeatured": false,
+    "paragraphsCount": 113
+  },
+  {
+    "id": "deeksha",
+    "titleHindi": "दीक्षा",
+    "titleEnglish": "Deeksha",
+    "description": "जब मैं स्कूल में पढ़ता था, गेंद खेलता था और अध्यापक महोदयों की घुड़कियाँ खाता था, अर्थात् मेरी किशोरावस्था थी, न ज्ञान का उदय हुआ था और न बुद्धि का विकास, उस समय मैं टेंपरेंस एसोसिएशन (नशानिवारणी सभा...",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 45,
+    "isFeatured": false,
+    "paragraphsCount": 106
+  },
+  {
+    "id": "duraga_ka_mandir",
+    "titleHindi": "दुर्गा का मंदिर",
+    "titleEnglish": "Duraga Ka Mandir",
+    "description": "बाबू ब्रजनाथ कानून पढ़ने में मग्न थे, और उनके दोनों बच्चे लड़ाई करने में।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 31,
+    "isFeatured": false,
+    "paragraphsCount": 92
+  },
+  {
+    "id": "dussahas",
+    "titleHindi": "दुस्साहस",
+    "titleEnglish": "Dussahas",
+    "description": "लखनऊ के नौबस्ते मोहल्ले में एक मुंशी मैकूलाल मुख्तार रहते थे।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 79
+  },
+  {
+    "id": "do_kabren",
+    "titleHindi": "दो कब्रें",
+    "titleEnglish": "Do Kabren",
+    "description": "अब न वह यौवन है, न वह नशा, न वह उन्माद। वह महफिल उठ गई, वह दीपक बुझ गया, जिससे महफिल की रौनक थी।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 47,
+    "isFeatured": false,
+    "paragraphsCount": 127
+  },
+  {
+    "id": "do_bhai",
+    "titleHindi": "दो भाई",
+    "titleEnglish": "Do Bhai",
+    "description": "प्रातःकाल सूर्य की सुहावनी सुनहरी धूप में कलावती दोनों बेटों को जाँघों पर बैठा दूध और रोटी खिलाती।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 17,
+    "isFeatured": false,
+    "paragraphsCount": 42
+  },
+  {
+    "id": "daftari",
+    "titleHindi": "दफ़्तरी",
+    "titleEnglish": "Daftari",
+    "description": "रफाकत हुसेन मेरे दफ्तर का दफ्तरी था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 18,
+    "isFeatured": false,
+    "paragraphsCount": 21
+  },
+  {
+    "id": "dharm_sankat",
+    "titleHindi": "धर्मसंकट",
+    "titleEnglish": "Dharm Sankat",
+    "description": "‘पुरुषों और स्त्रियों में बड़ा अन्तर है, तुम लोगों का हृदय शीशे की तरह कठोर होता है और हमारा हृदय नरम, वह विरह की आँच नहीं सह सकता।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 36
+  },
+  {
+    "id": "dhikkar",
+    "titleHindi": "धिक्कार",
+    "titleEnglish": "Dhikkar",
+    "description": "ईरान और यूनान में घोर संग्राम हो रहा था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 65
+  },
+  {
+    "id": "dhikkar1",
+    "titleHindi": "धिक्कार",
+    "titleEnglish": "Dhikkar",
+    "description": "अनाथ और विधवा मानी के लिये जीवन में अब रोने के सिवा दूसरा अवलंब न था।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 50,
+    "isFeatured": false,
+    "paragraphsCount": 133
+  },
+  {
+    "id": "dhokha",
+    "titleHindi": "धोखा",
+    "titleEnglish": "Dhokha",
+    "description": "सतीकुण्ड में खिले हुए कमल वसंत के धीमे-धीमे झोंकों से लहरा रहे थे और प्रातःकाल की मंद-मंद सुनहरी किरणें उनसे मिल-मिल कर मुस्कराती थीं।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 56
+  },
+  {
+    "id": "narak_ka_marg",
+    "titleHindi": "नरक का मार्ग",
+    "titleEnglish": "Narak Ka Marg",
+    "description": "रात 'भक्तमाल' पढ़ते-पढ़ते न जाने कब नींद आ गयी।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 24,
+    "isFeatured": false,
+    "paragraphsCount": 29
+  },
+  {
+    "id": "nasha",
+    "titleHindi": "नशा",
+    "titleEnglish": "Nasha",
+    "description": "ईश्वरी एक बड़े जमींदार का लड़का था और मैं एक गरीब क्लर्क का, जिसके पास मेहनत-मजूरी के सिवा और कोई जायदाद न थी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 23,
+    "isFeatured": false,
+    "paragraphsCount": 53
+  },
+  {
+    "id": "nag_puja",
+    "titleHindi": "नागपूजा",
+    "titleEnglish": "Nag Puja",
+    "description": "प्रातःकाल था। आषाढ़ का पहला दौंगड़ा निकल गया था।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 31,
+    "isFeatured": false,
+    "paragraphsCount": 40
+  },
+  {
+    "id": "nimantran",
+    "titleHindi": "निमंत्रण",
+    "titleEnglish": "Nimantran",
+    "description": "पंडित मोटेराम शास्त्री ने अंदर जा कर अपने विशाल उदर पर हाथ फेरते हुए यह पद पंचम स्वर में गया,।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 57,
+    "isFeatured": false,
+    "paragraphsCount": 254
+  },
+  {
+    "id": "nirvaasan",
+    "titleHindi": "निर्वासन",
+    "titleEnglish": "Nirvaasan",
+    "description": "परशुराम- वहीं-वहीं, दालान में ठहरो!।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 16,
+    "isFeatured": false,
+    "paragraphsCount": 85
+  },
+  {
+    "id": "nairashya",
+    "titleHindi": "नैराश्य",
+    "titleEnglish": "Nairashya",
+    "description": "बाज आदमी अपनी स्त्री से इसलिए नाराज रहते हैं कि उसके लड़कियाँ ही क्यों होती हैं, लड़के क्यों नहीं होते।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 30,
+    "isFeatured": false,
+    "paragraphsCount": 107
+  },
+  {
+    "id": "nairashya_leela",
+    "titleHindi": "नैराश्य लीला",
+    "titleEnglish": "Nairashya Leela",
+    "description": "पंडित हृदयनाथ अयोध्याय के एक सम्मानित पुरुष थे।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 37,
+    "isFeatured": false,
+    "paragraphsCount": 80
+  },
+  {
+    "id": "pachhtawa",
+    "titleHindi": "पछतावा",
+    "titleEnglish": "Pachhtawa",
+    "description": "पंडित दुर्गानाथ जब कालेज से निकले तो उन्हें जीवन-निर्वाह की चिंता उपस्थित हुई।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 38,
+    "isFeatured": false,
+    "paragraphsCount": 65
+  },
+  {
+    "id": "patni_se_pati",
+    "titleHindi": "पत्नी से पति",
+    "titleEnglish": "Patni Se Pati",
+    "description": "मिस्टर सेठ को सभी हिन्दुस्तानी चीजों से नफरत थी और उनकी सुन्दरी पत्नी गोदावरी को सभी विदेशी चीजों से चिढ़! मगर धैर्य और विनय भारत की देवियों का आभूषण है।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 33,
+    "isFeatured": false,
+    "paragraphsCount": 105
+  },
+  {
+    "id": "pashu_se_manushya",
+    "titleHindi": "पशु से मनुष्य",
+    "titleEnglish": "Pashu Se Manushya",
+    "description": "बार-ऐट ला, के यहाँ नौकर था। पाँच रुपये मासिक वेतन पाता था।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 37,
+    "isFeatured": false,
+    "paragraphsCount": 49
+  },
+  {
+    "id": "paap_ka_agnikund",
+    "titleHindi": "पाप का अग्निकुंड",
+    "titleEnglish": "Paap Ka Agnikund",
+    "description": "कुँवर पृथ्वीसिंह महाराज यशवंतसिंह के पुत्र थे।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 31,
+    "isFeatured": false,
+    "paragraphsCount": 79
+  },
+  {
+    "id": "pisanhari_ka_kuan",
+    "titleHindi": "पिसनहारी का कुआं",
+    "titleEnglish": "Pisanhari Ka Kuan",
+    "description": "गोमती ने मृत्यु-शय्या पर पड़े हुए चौधरी विनायकसिंह से कहा —चौधरी, मेरे जीवन की यही लालसा थी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 30,
+    "isFeatured": false,
+    "paragraphsCount": 112
+  },
+  {
+    "id": "poorv_sanskar",
+    "titleHindi": "पूर्व संस्कार",
+    "titleEnglish": "Poorv Sanskar",
+    "description": "सज्जनों के हिस्से में भौतिक उन्नति कभी भूल कर ही आती है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 21,
+    "isFeatured": false,
+    "paragraphsCount": 44
+  },
+  {
+    "id": "prayashchit",
+    "titleHindi": "प्रायश्चित",
+    "titleEnglish": "Prayashchit",
+    "description": "दफ्तर में जरा देर से आना अफसरों की शान है।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 38,
+    "isFeatured": false,
+    "paragraphsCount": 97
+  },
+  {
+    "id": "prarabdh",
+    "titleHindi": "प्रारब्ध",
+    "titleEnglish": "Prarabdh",
+    "description": "लाला जीवनदास को मृत्युशय्या पर पड़े 6 मास हो गये हैं।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 33,
+    "isFeatured": false,
+    "paragraphsCount": 53
+  },
+  {
+    "id": "bahishkar",
+    "titleHindi": "बहिष्कार",
+    "titleEnglish": "Bahishkar",
+    "description": "पण्डित ज्ञानचंद्र ने गोविंदी की ओर सतृष्ण नेत्रों से देख कर कहा —मुझे ऐसे निर्दयी प्राणियों से जरा भी सहानुभूति नहीं है।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 43,
+    "isFeatured": false,
+    "paragraphsCount": 79
+  },
+  {
+    "id": "baba_ji_ka_bhog",
+    "titleHindi": "बाबा जी का भोग",
+    "titleEnglish": "Babaji Ka Bhog",
+    "description": "रामधन अहीर के द्वार पर एक साधु आकर बोला- बच्चा तेरा कल्याण हो, कुछ साधु पर श्रद्धा कर।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 5,
+    "isFeatured": false,
+    "paragraphsCount": 25
+  },
+  {
+    "id": "balak",
+    "titleHindi": "बालक",
+    "titleEnglish": "Balak",
+    "description": "गंगू को लोग ब्राह्मण कहते हैं और वह अपने को ब्राह्मण समझता भी है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 66
+  },
+  {
+    "id": "baasi_bhaat_mein_khuda_ka_sajha",
+    "titleHindi": "बासी भात में खुदा का साझा",
+    "titleEnglish": "Baasi Bhaat Mein Khuda Ka Sajha",
+    "description": "बासी भात में खुदा का साझा।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 24,
+    "isFeatured": false,
+    "paragraphsCount": 59
+  },
+  {
+    "id": "beti_ka_dhan",
+    "titleHindi": "बेटी का धन",
+    "titleEnglish": "Beti Ka Dhan",
+    "description": "बीच इस तरह मुँह छिपाये हुए थी जैसे निर्मल हृदयों में साहस और उत्साह की मद्धम ज्योति छिपी रहती है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 27,
+    "isFeatured": false,
+    "paragraphsCount": 57
+  },
+  {
+    "id": "beton_wali_vidhva",
+    "titleHindi": "बेटों वाली विधवा",
+    "titleEnglish": "Beton Wali Vidhva",
+    "description": "पंडित अयोध्यानाथ का देहांत हुआ तो सबने कहा, ईश्वर आदमी की ऐसी ही मौत दे।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 59,
+    "isFeatured": false,
+    "paragraphsCount": 137
+  },
+  {
+    "id": "bank_ka_diwala",
+    "titleHindi": "बैंक का दीवाला",
+    "titleEnglish": "Bank Ka Diwala",
+    "description": "लखनऊ नेशनल बैंक के दफ्तर में लाला साईंदास आरामकुर्सी पर लेटे हुए शेयरों का भाव देख रहे थे और सोच रहे थे कि इस बार हिस्सेदारों को मुनाफा कहाँ से दिया जायगा।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 72,
+    "isFeatured": false,
+    "paragraphsCount": 109
+  },
+  {
+    "id": "bodh",
+    "titleHindi": "बोध",
+    "titleEnglish": "Bodh",
+    "description": "पंडित चंद्रधर ने अपर प्राइमरी में मुदर्रिसी तो कर ली थी, किन्तु सदा पछताया करते थे कि कहाँ से इस जंजाल में आ फँसे।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 20,
+    "isFeatured": false,
+    "paragraphsCount": 59
+  },
+  {
+    "id": "baudam",
+    "titleHindi": "बौड़म",
+    "titleEnglish": "Baudam",
+    "description": "मुझे देवीपुर गये पाँच दिन हो चुके थे, पर ऐसा एक दिन भी न होगा कि बौड़म की चर्चा न हुई हो।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 53
+  },
+  {
+    "id": "brahm_ka_swaang",
+    "titleHindi": "ब्रह्म का स्वांग",
+    "titleEnglish": "Brahm Ka Swaang",
+    "description": "मैं वास्तव में अभागिन हूँ, नहीं तो क्या मुझे नित्य ऐसे-ऐसे घृणित दृश्य देखने पड़ते ! शोक की बात यह है कि वे मुझे केवल देखने ही नहीं पड़ते, वरन् दुर्भाग्य ने उन्हें मेरे जीवन का मुख्य भाग बना दिया है।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 26
+  },
+  {
+    "id": "bhaadey_ka_tattoo",
+    "titleHindi": "भाड़े का टट्‍टू",
+    "titleEnglish": "Bhaadey Ka Tattoo",
+    "description": "आगरा कालेज के मैदान में संध्या-समय दो युवक हाथ से हाथ मिलाये टहल रहे थे।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 39,
+    "isFeatured": false,
+    "paragraphsCount": 89
+  },
+  {
+    "id": "mandir",
+    "titleHindi": "मंदिर",
+    "titleEnglish": "Mandir",
+    "description": "मातृ-प्रेम, तुझे धान्य है ! संसार में और जो कुछ है, मिथ्या है, निस्सार है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 24,
+    "isFeatured": false,
+    "paragraphsCount": 39
+  },
+  {
+    "id": "manushya_ka_param_dharm",
+    "titleHindi": "मनुष्य का परम धर्म",
+    "titleEnglish": "Manushya Ka Param Dharm",
+    "description": "होली का दिन है। लड्डू के भक्त और रसगुल्ले के प्रेमी पंडित मोटेराम शास्त्री अपने आँगन में एक टूटी खाट पर सिर झुकाये, चिंता और शोक की मूर्ति बने बैठे हैं।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 15,
+    "isFeatured": false,
+    "paragraphsCount": 46
+  },
+  {
+    "id": "manovritti",
+    "titleHindi": "मनोवृत्ति",
+    "titleEnglish": "Manovritti",
+    "description": "एक सुंदर युवती, प्रात:काल, गाँधी-पार्क में बिल्लौर के बेंच पर गहरी नींद में सोयी पायी जाय, यह चौंका देनेवाली बात है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 16,
+    "isFeatured": false,
+    "paragraphsCount": 106
+  },
+  {
+    "id": "mamta",
+    "titleHindi": "ममता",
+    "titleEnglish": "Mamta",
+    "description": "बाबू रामरक्षादास दिल्ली के एक ऐश्वर्यशाली खत्री थे, बहुत ही ठाठ-बाट से रहनेवाले।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 43,
+    "isFeatured": false,
+    "paragraphsCount": 50
+  },
+  {
+    "id": "maryada_ki_vedi",
+    "titleHindi": "मर्यादा की वेदी",
+    "titleEnglish": "Maryada Ki Vedi",
+    "description": "यह वह समय था जब चित्तौड़ में मृदुभाषिणी मीरा प्यारी आत्माओं को ईश्वर-प्रेम के प्याले पिलाती थी।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 48,
+    "isFeatured": false,
+    "paragraphsCount": 111
+  },
+  {
+    "id": "mahateerth",
+    "titleHindi": "महातीर्थ",
+    "titleEnglish": "Mahateerth",
+    "description": "मुंशी इंद्रमणि की आमदनी कम थी और खर्च ज्यादा।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 34,
+    "isFeatured": false,
+    "paragraphsCount": 64
+  },
+  {
+    "id": "maa",
+    "titleHindi": "माँ",
+    "titleEnglish": "Maa",
+    "description": "आज बन्दी छूटकर घर आ रहा है। करुणा ने एक दिन पहले ही घर लीप-पोत रखा था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 52,
+    "isFeatured": false,
+    "paragraphsCount": 110
+  },
+  {
+    "id": "mata_ka_hriday",
+    "titleHindi": "माता का हृदय",
+    "titleEnglish": "Mata Ka Hriday",
+    "description": "माधवी की आँखों में सारा संसार अँधेरा हो रहा था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 27,
+    "isFeatured": false,
+    "paragraphsCount": 38
+  },
+  {
+    "id": "mukti_marg",
+    "titleHindi": "मुक्ति-मार्ग",
+    "titleEnglish": "Mukti Marg",
+    "description": "सिपाही को अपनी लाल पगड़ी पर, सुन्दरी को अपने गहनों पर और वैद्य को अपने सामने बैठे हुए रोगियों पर जो घमंड होता है, वही किसान को अपने खेतों को लहराते हुए देखकर होता है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 32,
+    "isFeatured": false,
+    "paragraphsCount": 74
+  },
+  {
+    "id": "muktidhan",
+    "titleHindi": "मुक्तिधन",
+    "titleEnglish": "Muktidhan",
+    "description": "भारतवर्ष में जितने व्यवसाय हैं, उन सबमें लेन-देन का व्यवसाय सबसे लाभदायक है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 30,
+    "isFeatured": false,
+    "paragraphsCount": 75
+  },
+  {
+    "id": "muft_ka_yash",
+    "titleHindi": "मुफ्त का यश",
+    "titleEnglish": "Muft Ka Yash",
+    "description": "उन दिनों संयोग से हाकिम-जिला एक रसिक सज्जन थे।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 24,
+    "isFeatured": false,
+    "paragraphsCount": 33
+  },
+  {
+    "id": "mooth",
+    "titleHindi": "मूठ",
+    "titleEnglish": "Mooth",
+    "description": "श्रेणी की सनद पायी थी, पर इसे भाग्य ही कहिए या व्यावसायिक सिद्धान्तों का अज्ञान कि उन्हें अपने व्यवसाय में कभी उन्नत अवस्था न मिली।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 44,
+    "isFeatured": false,
+    "paragraphsCount": 99
+  },
+  {
+    "id": "mrityu_ke_peechhe",
+    "titleHindi": "मृत्यु के पीछे",
+    "titleEnglish": "Mrityu Ke Peechhe",
+    "description": "बाबू ईश्वरचंद्र को समाचारपत्रों में लेख लिखने की चाट उन्हीं दिनों पड़ी जब वे विद्याभ्यास कर रहे थे।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 36,
+    "isFeatured": false,
+    "paragraphsCount": 57
+  },
+  {
+    "id": "maiku",
+    "titleHindi": "मैकू",
+    "titleEnglish": "Maiku",
+    "description": "कादिर और मैकू ताड़ीखाने के सामने पहुँचे, तो वहाँ कांग्रेस के वालंटियर झंडा लिये खड़े नजर आये।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 11,
+    "isFeatured": false,
+    "paragraphsCount": 40
+  },
+  {
+    "id": "yah_meri_matribhumi_hai",
+    "titleHindi": "यह मेरी मातृभूमि है",
+    "titleEnglish": "Yeh Meri Matribhumi Hai",
+    "description": "आज पूरे 60 वर्ष के बाद मुझे मातृभूमि-प्यारी मातृभूमि के दर्शन प्राप्त हुए हैं।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 19,
+    "isFeatured": false,
+    "paragraphsCount": 21
+  },
+  {
+    "id": "rasik_sampaadak",
+    "titleHindi": "रसिक सम्पादक",
+    "titleEnglish": "Rasik Sampaadak",
+    "description": "'नवरस' के संपादक पं। चोखेलाल शर्मा की धर्मपत्नी का जब से देहांत हुआ है, आपको स्त्रियों से विशेष अनुराग हो गया है और रसिकता की मात्रा भी कुछ बढ़ गयी है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 19,
+    "isFeatured": false,
+    "paragraphsCount": 44
+  },
+  {
+    "id": "raja_hardaul",
+    "titleHindi": "राजा हरदौल",
+    "titleEnglish": "Raja Hardaul",
+    "description": "बुंदेलखंड में ओरछा पुराना राज्य है। इसके राजा बुंदेले हैं।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 42,
+    "isFeatured": false,
+    "paragraphsCount": 53
+  },
+  {
+    "id": "rajya_bhakt",
+    "titleHindi": "राज्य-भक्त",
+    "titleEnglish": "Rajya Bhakt",
+    "description": "संध्या का समय था। लखनऊ के बादशाह नासिरुद्दीन अपने मुसाहबों और दरबारियों के साथ बाग की सैर कर रहे थे।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 54,
+    "isFeatured": false,
+    "paragraphsCount": 108
+  },
+  {
+    "id": "rani_sarandha",
+    "titleHindi": "रानी सारन्धा",
+    "titleEnglish": "Rani Sarandha",
+    "description": "अँधेरी रात के सन्नाटे में धसान नदी चट्टानों से टकराती हुई ऐसी सुहावनी मालूम होती थी जैसे घुमुर-घुमुर करती हुई चक्कियाँ।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 47,
+    "isFeatured": false,
+    "paragraphsCount": 139
+  },
+  {
+    "id": "ramleela",
+    "titleHindi": "रामलीला",
+    "titleEnglish": "Ramleela",
+    "description": "इधर एक मुद्दत से रामलीला देखने नहीं गया।",
+    "category": "व्यंग्य एवं नीति",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 43
+  },
+  {
+    "id": "lanchan",
+    "titleHindi": "लांछन",
+    "titleEnglish": "Lanchan",
+    "description": "अगर संसार में ऐसा प्राणी होता, जिसकी आँखें लोगों के हृदयों के भीतर घुस सकतीं, तो ऐसे बहुत कम स्त्री-पुरुष होंगे, जो उसके सामने सीधी आँखें करके ताक सकते ! महिला-आश्रम की जुगनूबाई के विषय में लोगों क...",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 34,
+    "isFeatured": false,
+    "paragraphsCount": 125
+  },
+  {
+    "id": "lanchhan",
+    "titleHindi": "लांछन",
+    "titleEnglish": "Lanchhan",
+    "description": "मुंशी श्यामकिशोर के द्वार पर मुन्नू मेहतर ने झाड़ू लगायी, गुसलखाना धो-धो कर साफ किया और तब द्वार पर आ कर गृहिणी से बोला — माँ जी, देख लीजिए, सब साफ कर दिया।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 78,
+    "isFeatured": false,
+    "paragraphsCount": 278
+  },
+  {
+    "id": "laag_daat",
+    "titleHindi": "लाग-डाट",
+    "titleEnglish": "Laag Daat",
+    "description": "जोखू भगत और बेचन चौधरी में तीन पीढ़ियों से अदावत चली आती थी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 18,
+    "isFeatured": false,
+    "paragraphsCount": 41
+  },
+  {
+    "id": "laila",
+    "titleHindi": "लैला",
+    "titleEnglish": "Laila",
+    "description": "यह कोई न जानता था कि लैला कौन है, कहाँ से आयी है और क्या करती है।",
+    "category": "मानवीय संवेदना",
+    "estimatedReadingMinutes": 53,
+    "isFeatured": false,
+    "paragraphsCount": 116
+  },
+  {
+    "id": "lokmat_ka_samman",
+    "titleHindi": "लोकमत का सम्मान",
+    "titleEnglish": "Lokmat Ka Samman",
+    "description": "बेचू धोबी को अपने गाँव और घर से उतना ही प्रेम था, जितना प्रत्येक मनुष्य को होता है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 23,
+    "isFeatured": false,
+    "paragraphsCount": 42
+  },
+  {
+    "id": "vichitra_holi",
+    "titleHindi": "विचित्र होली",
+    "titleEnglish": "Vichitra Holi",
+    "description": "होली का दिन था; मिस्टर ए।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 17,
+    "isFeatured": false,
+    "paragraphsCount": 30
+  },
+  {
+    "id": "vidhwans",
+    "titleHindi": "विध्वंस",
+    "titleEnglish": "Vidhwans",
+    "description": "जिला बनारस में बीरा नाम का एक गाँव है। वहाँ एक विधवा वृद्धा, संतानहीन, गोंड़िन रहती थी, जिसका भुनगी नाम था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 13,
+    "isFeatured": false,
+    "paragraphsCount": 28
+  },
+  {
+    "id": "vinod",
+    "titleHindi": "विनोद",
+    "titleEnglish": "Vinod",
+    "description": "विद्यालयों में विनोद की जितनी लीलाएँ होती रहती हैं, वे यदि एकत्र की जा सकें, तो मनोरंजन की बड़ी उत्तम सामग्री हाथ आये।",
+    "category": "व्यंग्य एवं नीति",
+    "estimatedReadingMinutes": 57,
+    "isFeatured": false,
+    "paragraphsCount": 138
+  },
+  {
+    "id": "vimata",
+    "titleHindi": "विमाता",
+    "titleEnglish": "Vimata",
+    "description": "स्त्री की मृत्यु के तीन ही मास बाद पुनर्विवाह करना मृतात्मा के साथ ऐसा अन्याय और उसकी आत्मा पर ऐसा आघात है जो कदापि क्षम्य नहीं हो सकता।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 15,
+    "isFeatured": false,
+    "paragraphsCount": 14
+  },
+  {
+    "id": "vishwas",
+    "titleHindi": "विश्वास",
+    "titleEnglish": "Vishwas",
+    "description": "उन दिनों मिस जोशी बम्बई सभ्य-समाज की राधिका थी।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 50,
+    "isFeatured": false,
+    "paragraphsCount": 118
+  },
+  {
+    "id": "visham_samsya",
+    "titleHindi": "विषम समस्या",
+    "titleEnglish": "Visham Samsya",
+    "description": "मेरे दफ्तर में चार चपरासी थे, उनमें एक का नाम गरीब था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 15,
+    "isFeatured": false,
+    "paragraphsCount": 35
+  },
+  {
+    "id": "vismriti",
+    "titleHindi": "विस्मृति",
+    "titleEnglish": "Vismriti",
+    "description": "चित्रकूट के सन्निकट धनगढ़ नामक एक गाँव है।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 72,
+    "isFeatured": false,
+    "paragraphsCount": 93
+  },
+  {
+    "id": "vair_ka_ant",
+    "titleHindi": "वैर का अंत",
+    "titleEnglish": "Vair Ka Ant",
+    "description": "रामेश्वरराय अपने बड़े भाई के शव को खाट से नीचे उतारते हुए भाई से बोले-तुम्हारे पास कुछ रुपये हों तो लाओ, दाह-क्रिया की फिक्र करें, मैं बिलकुल खाली हाथ हूँ।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 77
+  },
+  {
+    "id": "shankhnad",
+    "titleHindi": "शंखनाद",
+    "titleEnglish": "Shankhnad",
+    "description": "भानु चौधरी अपने गाँव के मुखिया थे। गाँव में उनका बड़ा मान था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 17
+  },
+  {
+    "id": "sharab_ki_dukan",
+    "titleHindi": "शराब की दुकान",
+    "titleEnglish": "Sharab Ki Dukan",
+    "description": "कांग्रेस कमेटी में यह सवाल पेश था-शराब और ताड़ी की दूकानों पर कौन धरना देने जाय? कमेटी के पच्चीस मेम्बर सिर झुकाये बैठे थे; पर किसी के मुँह से बात न निकलती थी।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 47,
+    "isFeatured": false,
+    "paragraphsCount": 170
+  },
+  {
+    "id": "shanti",
+    "titleHindi": "शांति",
+    "titleEnglish": "Shanti",
+    "description": "जब मैं ससुराल आयी, तो बिलकुल फूहड़ थी। न पहनने-ओढ़ने का सलीका, न बातचीत करने का ढंग।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 50,
+    "isFeatured": false,
+    "paragraphsCount": 57
+  },
+  {
+    "id": "shanti2",
+    "titleHindi": "शान्ति",
+    "titleEnglish": "Shanti",
+    "description": "स्वर्गीय देवनाथ मेरे अभिन्न मित्रों में थे।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 43,
+    "isFeatured": false,
+    "paragraphsCount": 90
+  },
+  {
+    "id": "shaap",
+    "titleHindi": "शाप",
+    "titleEnglish": "Shaap",
+    "description": "मैं बर्लिन नगर का निवासी हूँ। मेरे पूज्य पिता भौतिक विज्ञान के सुविख्यात ज्ञाता थे।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 106,
+    "isFeatured": false,
+    "paragraphsCount": 128
+  },
+  {
+    "id": "shikari_rajkumar",
+    "titleHindi": "शिकारी राजकुमार",
+    "titleEnglish": "Shikari Rajkumar",
+    "description": "मई का महीना और मध्याह्न का समय था। सूर्य की आँखें सामने से हटकर सिर पर जा पहुँची थीं, इसलिए उनमें शील न था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 23,
+    "isFeatured": false,
+    "paragraphsCount": 44
+  },
+  {
+    "id": "sachchai_ka_uphar",
+    "titleHindi": "सच्चाई का उपहार",
+    "titleEnglish": "Sachchai Ka Uphar",
+    "description": "तहसीली मदरसा बराँव के प्रथमाध्यापक मुंशी भवानीसहाय को बागवानी का कुछ व्यसन था।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 21,
+    "isFeatured": false,
+    "paragraphsCount": 78
+  },
+  {
+    "id": "satyagrah",
+    "titleHindi": "सत्याग्रह",
+    "titleEnglish": "Satyagrah",
+    "description": "हिज एक्सेलेंसी वाइसराय बनारस आ रहे थे। सरकारी कर्मचारी, छोटे से बड़े तक, उनके स्वागत की तैयारियाँ कर रहे थे।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 42,
+    "isFeatured": false,
+    "paragraphsCount": 95
+  },
+  {
+    "id": "samar_yatra",
+    "titleHindi": "समर-यात्रा",
+    "titleEnglish": "Samar Yatra",
+    "description": "आज सवेरे ही से गाँव में हलचल मची हुई थी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 37,
+    "isFeatured": false,
+    "paragraphsCount": 100
+  },
+  {
+    "id": "subhaagi",
+    "titleHindi": "सुभागी",
+    "titleEnglish": "Subhaagi",
+    "description": "और लोगों के यहाँ चाहे जो होता हो, तुलसी महतो अपनी लड़की सुभागी को लड़के रामू से जौ-भर भी कम प्यार न करते थे।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 89
+  },
+  {
+    "id": "suhag_ki_saree",
+    "titleHindi": "सुहाग की साड़ी",
+    "titleEnglish": "Suhag Ki Saree",
+    "description": "यह कहना भूल है कि दाम्पत्य-सुख के लिए स्त्री-पुरुष के स्वभाव में मेल होना आवश्यक है।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 25,
+    "isFeatured": false,
+    "paragraphsCount": 90
+  },
+  {
+    "id": "seva_marg",
+    "titleHindi": "सेवा-मार्ग",
+    "titleEnglish": "Seva Marg",
+    "description": "तारा ने बारह वर्ष दुर्गा की तपस्या की। न पलंग पर सोयी, न केशो को सँवारा और न नेत्रों में सुर्मा लगाया।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 22,
+    "isFeatured": false,
+    "paragraphsCount": 48
+  },
+  {
+    "id": "saut",
+    "titleHindi": "सौत",
+    "titleEnglish": "Saut",
+    "description": "जब रजिया के दो-तीन बच्चे होकर मर गये और उम्र ढल चली, तो रामू का प्रेम उससे कुछ कम होने लगा और दूसरे व्याह की धुन सवार हुई।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 26,
+    "isFeatured": false,
+    "paragraphsCount": 70
+  },
+  {
+    "id": "stree_aur_purush",
+    "titleHindi": "स्त्री और पुरुष",
+    "titleEnglish": "Stree Aur Purush",
+    "description": "विपिन बाबू के लिए स्त्री ही संसार की सुन्दर वस्तु थी।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 18,
+    "isFeatured": false,
+    "paragraphsCount": 42
+  },
+  {
+    "id": "swatwa_raksha",
+    "titleHindi": "स्वत्व-रक्षा",
+    "titleEnglish": "Swatwa Raksha",
+    "description": "मीर दिलावर अली के पास एक बड़ी रास का कुम्मैत घोड़ा था।",
+    "category": "पारिवारिक एवं रिश्ते",
+    "estimatedReadingMinutes": 18,
+    "isFeatured": false,
+    "paragraphsCount": 24
+  },
+  {
+    "id": "swarg_ki_devi",
+    "titleHindi": "स्वर्ग की देवी",
+    "titleEnglish": "Swarg Ki Devi",
+    "description": "भाग्य की बात! शादी-विवाह में आदमी का क्या अख्तियार! जिससे ईश्वर ने, या उनके नायबों- ब्राह्मणों ने तय कर दी, उससे हो गयी।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 27,
+    "isFeatured": false,
+    "paragraphsCount": 50
+  },
+  {
+    "id": "swamini",
+    "titleHindi": "स्वामिनी",
+    "titleEnglish": "Swamini",
+    "description": "शिवदास ने भंडारे की कुंजी अपनी बहू रामप्यारी के सामने फेंककर अपनी बूढ़ी आँखों में आँसू भरकर कहा- बहू, आज से गिरस्ती की देखभाल तुम्हारे ऊपर है।",
+    "category": "बाल-मनोविज्ञान",
+    "estimatedReadingMinutes": 47,
+    "isFeatured": false,
+    "paragraphsCount": 111
+  },
+  {
+    "id": "haar_ki_jeet",
+    "titleHindi": "हार की जीत",
+    "titleEnglish": "Haar Ki Jeet",
+    "description": "केशव से मेरी पुरानी लाग-डाँट थी। लेख और वाणी, हास्य और विनोद सभी क्षेत्रों में मुझसे कोसों आगे था।",
+    "category": "ऐतिहासिक एवं राष्ट्रप्रेम",
+    "estimatedReadingMinutes": 53,
+    "isFeatured": false,
+    "paragraphsCount": 56
+  },
+  {
+    "id": "hinsa_param_dharm",
+    "titleHindi": "हिंसा परम धर्म",
+    "titleEnglish": "Hinsa Param Dharm",
+    "description": "दुनिया में कुछ ऐसे लोग होते हैं, जो किसी के नौकर न होते हुए सबके नौकर होते हैं, जिन्हें कुछ अपना काम न होने पर भी सिर उठाने की फ़ुर्सत नहीं होती।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 4,
+    "isFeatured": false,
+    "paragraphsCount": 4
+  },
+  {
+    "id": "jihad",
+    "titleHindi": "ज़िहाद",
+    "titleEnglish": "Jihad",
+    "description": "बहुत पुरानी बात है। हिंदुओं का एक काफ़िला अपने धर्म की रक्षा के लिए पश्चिमोत्तर के पर्वत-प्रदेश से भागा चला आ रहा था।",
+    "category": "सामाजिक न्याय",
+    "estimatedReadingMinutes": 29,
+    "isFeatured": false,
+    "paragraphsCount": 69
+  },
+  {
+    "id": "fatiha",
+    "titleHindi": "फ़ातिहा",
+    "titleEnglish": "Fatiha",
+    "description": "सरकारी अनाथालय से निकलकर मैं सीधा फौज में भरती किया गया।",
+    "category": "ग्रामीण यथार्थ",
+    "estimatedReadingMinutes": 60,
+    "isFeatured": false,
+    "paragraphsCount": 178
+  }
+]
